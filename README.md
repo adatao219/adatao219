@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ada
 - 👀 I’m interested in coding, meeting new people, tennis, pottery
 - 🌱 I’m currently learning more coding
-- 💞️ I’m looking to collaborate on front end ending
+- 💞️ I’m looking to collaborate on front end
 - 📫 How to reach me ...
 
 <!---
